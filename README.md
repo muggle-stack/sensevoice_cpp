@@ -149,6 +149,6 @@ make -j$(nproc)
 
 ### 重要提醒
 
-**MIT随便用，仓库不再维护，功能迁移到https://github.com/muggle-stack/evo_stt*
+**MIT随便用，仓库不再维护，功能迁移到https://github.com/muggle-stack/evo_stt**
 
  如果您觉得本项目对您有帮助，希望您在 GitHub 上给本项目一个 Star。
